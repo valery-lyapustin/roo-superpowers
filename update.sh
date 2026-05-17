@@ -68,7 +68,7 @@ echo ""
 if ! git -C "$SCRIPT_DIR" rev-parse --git-dir > /dev/null 2>&1; then
   echo -e "${RED}Ошибка: Это не git репозиторий.${NC}"
   echo "Для обновления нужно клонировать репозиторий:"
-  echo "  git clone https://github.com/YOUR_USERNAME/roo-superpowers.git"
+  echo "  git clone https://github.com/valery-lyapustin/roo-superpowers.git"
   exit 1
 fi
 
@@ -79,7 +79,7 @@ cd "$SCRIPT_DIR"
 if ! git remote get-url origin > /dev/null 2>&1; then
   echo -e "${RED}Ошибка: Нет remote 'origin'.${NC}"
   echo "Добавь remote:"
-  echo "  git remote add origin https://github.com/YOUR_USERNAME/roo-superpowers.git"
+  echo "  git remote add origin https://github.com/valery-lyapustin/roo-superpowers.git"
   exit 1
 fi
 

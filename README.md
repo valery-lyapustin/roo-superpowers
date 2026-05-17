@@ -19,7 +19,7 @@
 ### Быстрая установка
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/roo-superpowers.git
+git clone https://github.com/valery-lyapustin/roo-superpowers.git
 cd roo-superpowers
 chmod +x install.sh update.sh
 ./install.sh
