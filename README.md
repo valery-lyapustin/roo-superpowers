@@ -1,5 +1,9 @@
 # roo-superpowers
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Skills](https://img.shields.io/badge/скиллов-28-blue)](skills/)
+[![Roo Code](https://img.shields.io/badge/Roo%20Code-compatible-green)](https://github.com/RooVetGit/Roo-Code)
+
 Русскоязычная адаптация библиотеки скиллов [obra/superpowers](https://github.com/obra/superpowers) для [Roo Code](https://github.com/RooVetGit/Roo-Code).
 
 28 скиллов охватывающих весь цикл разработки: от мозгового штурма до деплоя, от отладки до код-ревью.
@@ -295,6 +299,14 @@ roo-superpowers/
 
 ---
 
+## Как внести вклад
+
+Хочешь добавить новый скилл или улучшить существующий? Читай [CONTRIBUTING.md](CONTRIBUTING.md).
+
+Нашёл проблему или есть идея? Открой [issue](https://github.com/valery-lyapustin/roo-superpowers/issues).
+
+---
+
 ## Источник
 
 Этот проект — русскоязычная адаптация [obra/superpowers-skills](https://github.com/obra/superpowers-skills) для Roo Code.
@@ -303,6 +315,12 @@ roo-superpowers/
 
 ---
 
+## Changelog
+
+История изменений — в [CHANGELOG.md](CHANGELOG.md).
+
+---
+
 ## Лицензия
 
-MIT
+[MIT](LICENSE)

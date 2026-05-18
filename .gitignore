@@ -1,0 +1,31 @@
+# Системные файлы macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Системные файлы Linux
+*~
+.directory
+
+# Системные файлы Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Редакторы и IDE
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*.orig
+
+# Временные файлы
+*.tmp
+*.bak
+*.log
+
+# Node.js (на случай если появятся скрипты)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
