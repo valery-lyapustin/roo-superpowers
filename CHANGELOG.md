@@ -7,11 +7,23 @@
 
 ---
 
+## [Unreleased]
+
+### Добавлено
+
+- [`conventional-commits`](skills/conventional-commits/SKILL.md) — скилл для проверки сообщений, подготовки плана и безопасного создания атомарных Git-коммитов по Conventional Commits 1.0.0.
+
+### Изменено
+
+- [`using-superpowers`](skills/using-superpowers/SKILL.md), [`README.md`](README.md) и [`CONTRIBUTING.md`](CONTRIBUTING.md) обновлены так, чтобы новый Git-скилл был виден в каталоге, правилах вклада и общем списке скиллов.
+
+---
+
 ## [1.0.0] — 2025-05-18
 
 ### Добавлено
 
-- 28 скиллов на русском языке, охватывающих весь цикл разработки
+- 26 скиллов на русском языке, охватывающих весь цикл разработки
 - Скрипт установки [`install.sh`](install.sh) с поддержкой `--dry-run` и `--force`
 - Скрипт обновления [`update.sh`](update.sh) с поддержкой `--check` и `--dry-run`
 

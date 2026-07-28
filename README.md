@@ -1,12 +1,12 @@
 # roo-superpowers
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Skills](https://img.shields.io/badge/скиллов-28-blue)](skills/)
+[![Skills](https://img.shields.io/badge/скиллов-27-blue)](skills/)
 [![Roo Code](https://img.shields.io/badge/Roo%20Code-compatible-green)](https://github.com/RooVetGit/Roo-Code)
 
 Русскоязычная адаптация библиотеки скиллов [obra/superpowers](https://github.com/obra/superpowers) для [Roo Code](https://github.com/RooVetGit/Roo-Code).
 
-28 скиллов охватывающих весь цикл разработки: от мозгового штурма до деплоя, от отладки до код-ревью.
+27 скиллов, охватывающих весь цикл разработки: от мозгового штурма до деплоя, от отладки до код-ревью.
 
 ---
 
@@ -99,6 +99,12 @@ git pull origin main
 | [`dispatching-parallel-agents`](skills/dispatching-parallel-agents/SKILL.md) | Параллельный запуск подагентов | При 3+ независимых задачах |
 | [`using-git-worktrees`](skills/using-git-worktrees/SKILL.md) | Изолированные git worktree | Перед началом работы над фичей |
 
+### Git и история изменений
+
+| Скилл | Описание | Когда использовать |
+|---|---|---|
+| [`conventional-commits`](skills/conventional-commits/SKILL.md) | Проверка сообщений и безопасное создание атомарных Conventional Commits | Перед подготовкой, проверкой или созданием Git-коммита |
+
 ### Отладка
 
 | Скилл | Описание | Когда использовать |
@@ -176,6 +182,7 @@ roo-superpowers/
     ├── remembering-conversations/SKILL.md
     ├── dispatching-parallel-agents/SKILL.md
     ├── using-git-worktrees/SKILL.md
+    ├── conventional-commits/SKILL.md
     ├── systematic-debugging/SKILL.md
     ├── root-cause-tracing/SKILL.md
     ├── defense-in-depth/SKILL.md
